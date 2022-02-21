@@ -24,7 +24,6 @@ Assign the values for x and y as required
 Create the linearRegression model and predict the output
 
 
-
 ## Program:
 ~~~
 #Developed by :- challa sandeep
@@ -43,18 +42,11 @@ predictedCO2 = regr.predict([[3300,1300]])
 print('Predicted co2 for the corresponding weight and volume',predictedCO2)
 
 
-
-
-
-
-
 ~~~
 ## Output:
-![](sandeep.png)
+<img width="802" alt="Screenshot 2022-02-21 at 8 39 12 PM" src="https://user-images.githubusercontent.com/93427522/154982627-b8644868-f27d-4b89-80b0-d887358ff2e4.png">
 
-### Insert your output
 
-<br>
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
